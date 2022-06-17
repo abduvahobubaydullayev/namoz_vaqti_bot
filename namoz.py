@@ -1,6 +1,6 @@
 import requests
 
-TOKEN = '5093321564:AAGMR4PgwxHuLsu1EwUgIIlwETm1iKD-lac'
+TOKEN = 'Token'
 
 
 def namoz(btn_data):
